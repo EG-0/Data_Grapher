@@ -1,4 +1,4 @@
-User can choose up to 3 files to graph at once. User can choose which columns from files along with which selected files to graph.
+User can choose up to 3 files to graph at once. User can choose which columns from files along with which selected files to graph with checkboxes if in pre-defined format.
 
 Example Graph:
 
